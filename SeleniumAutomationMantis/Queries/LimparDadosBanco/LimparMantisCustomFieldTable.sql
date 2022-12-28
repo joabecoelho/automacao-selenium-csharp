@@ -1,0 +1,1 @@
+truncate table mantis_custom_field_table

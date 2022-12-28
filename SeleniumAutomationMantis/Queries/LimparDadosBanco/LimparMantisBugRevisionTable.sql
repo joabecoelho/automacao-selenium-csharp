@@ -1,0 +1,1 @@
+truncate table mantis_bug_revision_table

@@ -1,0 +1,1 @@
+truncate table mantis_email_table

@@ -1,0 +1,1 @@
+truncate table mantis_bug_tag_table
