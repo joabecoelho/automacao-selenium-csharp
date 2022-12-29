@@ -212,7 +212,7 @@ LoginFlows (classe) loginFlows (objeto)
   
   #### Video de todos os testes: [DRIVE - CLIQUE PARA ACESSAR](https://drive.google.com/drive/folders/1KFv8FeY-2eSX_g8eTRMoIsE8R3KnRHDa?usp=share_link)
 
-## Evidências da execução dos testes no AzureDevOps
+## Evidências da execução dos testes na pipeline no AzureDevOps
   #### Testes em execução: 
   ![image](https://user-images.githubusercontent.com/74142987/209858325-967ecdb2-abd1-4f8b-afec-62a8abae778b.png)
 
